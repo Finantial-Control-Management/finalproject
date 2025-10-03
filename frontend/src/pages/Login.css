@@ -1,0 +1,103 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", "Segoe UI", sans-serif;
+}
+
+/* Container geral */
+.login-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #ebeff4; /* azul marinho, igual ao fundo do dashboard */
+  color: #000000;
+}
+
+/* Card do login */
+.login-form {
+  background: #2c3945;
+  padding: 40px 35px;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  max-width: 380px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Título */
+.login-container h1 {
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 1.8rem;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+/* Grupo do input */
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 18px;
+}
+
+.form-group label {
+  margin-bottom: 6px;
+  font-weight: 500;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.form-group input {
+  padding: 12px;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  outline: none;
+  font-size: 15px;
+  transition: all 0.3s ease;
+  background: #f9fafb;
+}
+
+.form-group input:focus {
+  border-color: #444444; /* azul primário */
+  box-shadow: 0 0 6px rgba(37, 99, 235, 0.3);
+  background: #fff;
+}
+
+/* Botão */
+button {
+  width: 100%;
+  padding: 12px;
+  background: #2563eb; /* azul destaque */
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background: #1e40af; /* azul mais escuro no hover */
+}
+
+/* Link de esqueci senha */
+.forgot-password {
+  margin-top: 12px;
+  font-size: 13px;
+  text-align: right;
+}
+
+.forgot-password a {
+  color: #2563eb;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.forgot-password a:hover {
+  text-decoration: underline;
+}
