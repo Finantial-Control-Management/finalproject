@@ -1,0 +1,21 @@
+.pagamentos-container {
+  max-width: 1000px;
+}
+
+.filtros input {
+  font-size: 14px;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.badge {
+  font-size: 0.85rem;
+  padding: 0.5em 0.75em;
+}
+
+button {
+  font-size: 0.85rem;
+}
