@@ -13,6 +13,7 @@ O aplicativo oferece as seguintes funcionalidades:
 * Edição e exclusão de transações
 * Visualização de saldo total
 * Visualização de despesas por categoria
+* Disponibiliza uma dashboard para informações gerais
     
 
 
@@ -23,21 +24,12 @@ O aplicativo oferece as seguintes funcionalidades:
 <img width="1868" height="967" alt="Image" src="https://github.com/user-attachments/assets/fc6a0dba-f15e-4dfd-b9c5-425b34df39bb" />
  
 
-| Tela inicial gerenciamento de despesas | 
+| Tela gerenciamento de despesas | 
 
-![Image](https://github.com/user-attachments/assets/6347a30e-2d1e-4275-ba51-202e1e016370)
-![Image](https://github.com/user-attachments/assets/f6810e7b-eeb6-4f3d-9c93-504b3bf46653)
-
-
-| Tela de Despesas por Categoria |   
-
-![Image](https://github.com/user-attachments/assets/784a6b9c-ee27-41bc-ae38-bd1b7bb01b86)
-![Image](https://github.com/user-attachments/assets/3a12b2dd-6a80-429c-a55f-7944ddfdb13d)
+<img width="1868" height="967" alt="Image" src="https://github.com/user-attachments/assets/9f857fe2-75f1-4342-b48e-a0701a18d6c2" />
 
 
-| Tela de Edição de entrada ou saída de despesas |   
+| Tela de Despesas por Receitas |   
 
-![Image](https://github.com/user-attachments/assets/6cbff5e0-ad0c-4b23-9d84-9c56c4180aa9)
+<img width="1868" height="967" alt="Image" src="https://github.com/user-attachments/assets/11d25463-242c-473e-bf22-0089754d2041" />
 
-
-https://github.com/user-attachments/assets/d884ee65-ec47-4271-9fd5-2f968c18b853
